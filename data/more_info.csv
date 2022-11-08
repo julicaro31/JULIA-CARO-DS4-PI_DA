@@ -1,0 +1,333 @@
+,date,location,operator,description,cause
+1,6/13/1947,"Leesburg, Virginia",Pennsylvania AL,A contributing cause was the faulty clearance given by ATC.,Air Traffic Control Errors
+2,05/22/1948,"Khabarovsk, Russia",Aeroflot,ATC error.,Air Traffic Control Errors
+3,11/01/1949,"Arlington, Virginia",Eastern Air Lines,ATC error.,Air Traffic Control Errors
+4,10/05/1952,"Skvoritsy, Russia",Aeroflot,Midair collision with a TC-62 aircraft. ATC error.,Air Traffic Control Errors
+5,04/14/1958,"Castel de Fels, Spain",Aviaco,Another aircraft was permitted to takeoff without knowing the exact position of the plane.,Air Traffic Control Errors
+6,07/21/1961,"Shemya, Alaska",Alaska AL,Lack of guidance from air traffic controller during last stages of flight.,Air Traffic Control Errors
+7,02/08/1965,"New York, New York",Eastern AL,Placement of the two aircraft on a near head on course causing one to crash.,Air Traffic Control Errors
+8,03/09/1967,"Urbana, Ohio",Trans World Airlines,ATC systems inadequate to separate controlled and uncontrolled traffic.,Air Traffic Control Errors
+9,03/05/1969,"San Juan, Puerto Rico",Prinair,A trainee vectored the aircraft into mountainous terrain under IFR conditions.,Air Traffic Control Errors
+10,09/09/1969,"Fairland, Indiana",Allegheny AL,Inadequate VFR separation and deficiencies in the ATC system,Air Traffic Control Errors
+11,02/06/1970,"Samarkand, USSR",Aeroflot,Misidentification of aircraft by the ATC causing the plane to impact a mountain.,Air Traffic Control Errors
+12,09/17/1971,Balkan Bulgarian AL,"Rila mountain, Bulgaria",The ATC confused the aircraft with another Turkish aircraft.,Air Traffic Control Errors
+13,12/04/1971,"Raleigh, North Carolina",Eastern AL,Inadequacy of ATC facilities and services in the terminal area.,Air Traffic Control Errors
+14,01/04/1972,"Plovdiv, Bulgaria",Balkan Bulgarian AL,"While on approach, the aircraft flew into a mountain. ATC error.",Air Traffic Control Errors
+15,05/04/1972,"Bratsk, Russia",Aeroflot,ATC error. Current weather was not passed on to the plane.,Air Traffic Control Errors
+16,12/20/1972,"Chicago, Illinois",Delta/North Central,The ATC gave ambiguous instructions to the crew.,Air Traffic Control Errors
+17,07/31/1973,"Boston, Massachusetts",Delta Air Lines,Poor positioning of the aircraft for an approach by ATC.,Air Traffic Control Errors
+18,12/01/1974,"Berryville, Virginia",Trans World Airlines,Lack of clarity in ATC procedures.,Air Traffic Control Errors
+19,03/20/1975,"Quilcene, Washington",U.S. Air Force,Faulty clearance by the ATC after misidentifying the C-141 as another aircraft.,Air Traffic Control Errors
+20,12/04/1974,"Irkutsk, Russia",Aeroflot,"ATC error, negligence in operations. Midair collision.",Air Traffic Control Errors
+21,09/09/1976,"Adler, Russia",Aeroflot / Aeroflot,Violation of separation rules.,Air Traffic Control Errors
+22,09/10/1976,"Hrvatska, Yugoslavia",Inex Adria Aviopromet / British Airways,"ATC error, negligence in operations. Midair collision.",Air Traffic Control Errors
+23,02/11/1978,"Cranbrook, BC",Pacific Western AL,Estimated time of arrival given by Calgary ATC in error.,Air Traffic Control Errors
+24,08/11/1979,"Dneprodzerzhinsk, USSR",Aeroflot,Separation error by the ATC causing a midair collision.,Air Traffic Control Errors
+25,09/14/1979,"Sarroch, Italy",Aero Transporti Italiani,Inadequate ATC assistance.,Air Traffic Control Errors
+26,08/24/1981,"Zavitinsk, Russia",Russian Air Force,Poor communication between civilian and military ATCs.,Air Traffic Control Errors
+27,04/11/1983,"Leninakan, Russia",Aeroflot,ATC procedural error in not identifying the planes position.,Air Traffic Control Errors
+28,04/19/1983,"Keninakan, Russia",Aeroflot,ATC procedural error in not identifying the planes position.,Air Traffic Control Errors
+29,03/06/1987,Aeroflot,"Almaty, Kazakhstan",The ATC didn't monitor the plane for at least 2 minutes after observing the plane taking a wrong course.,Air Traffic Control Errors
+30,02/18/1989,"Kuala Lumpur, Malaysia",Flying Tiger AL,"Non-standard phraseology used by Kuala Lumpur ATC, causing the crew to misinterpret the instructions.",Air Traffic Control Errors
+31,02/01/1991,"Los Angeles, California",USAir/Skywest,ATC cleared a plane to land while the runway was occupied by another aircraft.,Air Traffic Control Errors
+32,01/20/1992,"Strasbourg, France",Air Inter,The plane was slightly off course due to ATC error,Air Traffic Control Errors
+33,09/22/1995,"Ancorage, Alaska",U.S. Air Force,ATC did not worn about birds in the area.,Air Traffic Control Errors
+34,11/07/1996,"Lagos, Nigeria",Aviation Dev. Corp.,The controller thought he had cleared to aircraft to the correct altitude but didn't.,Air Traffic Control Errors
+35,09/26/1997,"Buah Nabar, Indonesia",Garuda Indonesian AL,ATC error in directing the plane in the wrong direction into mountainous terrain.,Air Traffic Control Errors
+36,11/12/1999,"Pristina, Kosovo",UN Charter,Improper tracking by the military ATC.,Air Traffic Control Errors
+37,10/25/2000,"Batumi,Georgia",Russian Air Force,ATC error.,Air Traffic Control Errors
+38,07/01/2002,"Uberlinger, Germany",Bashkirian AL / DHL,Conflicting information give to pilot by ATC and what he was receiving on his TCAS.,Air Traffic Control Errors
+39,03/31/1995,"Balotesti, Romania",Trans. Aeriene Rom.,The captain was incapacitated shortly after taking off.,Air Traffic Control Errors
+40,09/04/2000,"Near Burketown, Australia",Central Air,Incapacitation of the captain due to depressurized cabin and lack of oxygen.,Air Traffic Control Errors
+41,08/14/2005,"Grammatikos, Greece",Helios Airways,Pressurization failure incapacitated the entire crew.,Air Traffic Control Errors
+1,10/04/1960,"Boston, Massachusetts",Eastern AL,During takeoff the aircraft struck a flock of starlings lost three engines and crashed.,Bird Strikes
+2,11/23/1962,"Ellicott, Maryland",United AL,The aircraft struck a Whistling Swan tearing off the left horizontal stabilizer.,Bird Strikes
+3,03/24/1968,"Wexford Harbor, Ireland",Air Lingus,Possible bird strike leading to structural damage and crash.,Bird Strikes
+4,09/15/1988,"Bahar Dar, Ethiopia",Ethiopian AL,Engine failure due to ingestion of 10-16 Columbia Guinea birds causing a crash.,Bird Strikes
+5,04/18/1990,Off Panama,Aero Perlas,Crashed on takeoff due to engine failure caused by bird ingestion.,Bird Strikes
+6,09/22/1995,"Anchorage, Alaska",U.S. Air Force,"Flew into a flock of 100 or more Canada Geese, lost two engines, and crashed.",Bird Strikes
+7,04/19/2000,"Pepo, Congo",Centrafricain Airlines,Crashed after losing its engines after striking birds.,Bird Strikes
+8,01/15/2009,"New York, New York",US Airways,Ditched in Hudson River after losing both engines after collision with Canadian Geese.,Bird Strikes
+1,05/14/1923,"Amiens, Picrdie, France",Air Union,Possibly started by a passenger discarding a match after lighting a cigarette.,Cargo Hold / Cabin / Cockpit Fires
+2,05/07/1928,"Florianopolis, Brazil","Florianopolis, Brazil",In-flight fire.,Cargo Hold / Cabin / Cockpit Fires
+3,03/28/1933,"Dixmude, Belgium",Imperial Airways,"The fire was thought to have been started by a passenger, Dr. Voss, in an attempt to commit suicide.",Cargo Hold / Cabin / Cockpit Fires
+4,07/28/1937,"Hal, Belgium",KLM,Struck by lightning and after an in-flight fire.,Cargo Hold / Cabin / Cockpit Fires
+5,08/06/1937,"Bistrita, Romania",Aeroflot,A passenger lit a cigarette in the rear toilet and ignited accumulated vapors.,Cargo Hold / Cabin / Cockpit Fires
+6,01/13/1939,"Miles City, Montana",Northwest Orient Airlines,"A fire of considerable intensity developed, prior to the crash, in the cockpit of the aircraft, in the immediate vicinity of the gasoline cross-feed valve.",Cargo Hold / Cabin / Cockpit Fires
+7,08/15/1939,"Copenhagen, Denmark",British Airways,Fire caused by overfilling of the fuel tanks.,Cargo Hold / Cabin / Cockpit Fires
+8,04/21/1944,"Frederikstad, Norway",Deutsche Lufthansa,A signal flare started an onboard fire,Cargo Hold / Cabin / Cockpit Fires
+9,09/07/1945,"Florence, South Carolina",Eastern AL,A fire of undetermined origin in the rear cargo compartment or lavatory.,Cargo Hold / Cabin / Cockpit Fires
+10,06/01/1946,"Amalfi, Italy",U.S. Army Air Forces,A fire of undetermined origin erupted in the cockpit.,Cargo Hold / Cabin / Cockpit Fires
+11,07/11/1946,"Reading, Pennsylvania",Trans Continental,In-flight fire caused by failure of a generator lead-through stud installation in the baggage compartment.,Cargo Hold / Cabin / Cockpit Fires
+12,10/24/1947,United Air Lines,"Bryce Canyon, Utah",A design flaw cause gasoline to be sucked back into the cabin heater intake.,Cargo Hold / Cabin / Cockpit Fires
+13,06/17/1948,"Mount Carmel, Pennsylvania",United Air Lines,In-flight fire in cargo hold.,Cargo Hold / Cabin / Cockpit Fires
+14,12/15/1948,"Bogata, Colombia",LANSA,Accidental detonation of fire works being carried aboard leading to the in-flight separation of the wing.,Cargo Hold / Cabin / Cockpit Fires
+15,08/02/1949,"Jaquirana, Brazil",Varig,A fire broke out in cargo hold G.,Cargo Hold / Cabin / Cockpit Fires
+16,12/30/1949,"Comilla, Pakistan",Bharat Airways,A fire erupted in a cargo hold.,Cargo Hold / Cabin / Cockpit Fires
+17,10/27/1951,"Flores, Guatemala",Guatemalan Air Force,A passenger may have started a fire in the aircraft's cabin with a cigarette.,Cargo Hold / Cabin / Cockpit Fires
+18,02/01/1954,"Hokkaido, Japan",U.S. Air Force,Reported fire in the cargo hold.,Cargo Hold / Cabin / Cockpit Fires
+19,11/08/1957,Pacific Ocean,Pan American,Possible in-flight fire. High levels of carbon monoxide were found in bodies.,Cargo Hold / Cabin / Cockpit Fires
+20,09/02/1958,Off Guam,U.S. Air Force,In-flight fire of unknown origin.,Cargo Hold / Cabin / Cockpit Fires
+21,03/01/1959,"Alma, Georgia",Riddle Airlines,The ignition of cargo in the aft belly compartment caused by contact with an unguarded light bulb.,Cargo Hold / Cabin / Cockpit Fires
+22,09/04/1963,"Durrenasch, Switzerland",Swissair,Damaged hydraulic line which caused a fire to start.,Cargo Hold / Cabin / Cockpit Fires
+23,01/09/1964,"Zarate, Argentina",Aero Litoral Argentina,The crew was possibly overcome by fumes from a fire in the cabin.,Cargo Hold / Cabin / Cockpit Fires
+24,07/09/1964,"Parrottsville, Tennesee",United AL,An uncontrollable fire of unknown origin which started below the passenger floor and eventually involved the passenger cabin.,Cargo Hold / Cabin / Cockpit Fires
+25,06/27/1967,"Blossburg, Pennsylvania",Mohawk Airlines,in-flight fire destroyed the pitch control systems. Incorrect installation of a valve caused hot air to ignite hydraulic fluid.,Cargo Hold / Cabin / Cockpit Fires
+26,09/11/1968,"Cap d'Antibes, France",Air France,Fire aboard in the rear of the cabin.,Cargo Hold / Cabin / Cockpit Fires
+27,07/26/1969,"Biskra, Algeria",Air Algerie,A fire in an electrical panel led to a cabin fire.,Cargo Hold / Cabin / Cockpit Fires
+28,05/06/1970,"Mogadishu, Somalia",Somali Airlines,Fire of unknown origin.,Cargo Hold / Cabin / Cockpit Fires
+29,12/24/1971,"Huanuco, Peru",Lineas Aereas Nacionales,The lightning caused a fire which led to the separation of the right wing and part of the left wing.,Cargo Hold / Cabin / Cockpit Fires
+30,08/14/1972,"Konigs, East Germany",Interflug,Melting insulation ignited flammable fluid which led to an uncontrollable fire that eventually weakened the structure until the tail fell off.,Cargo Hold / Cabin / Cockpit Fires
+31,08/31/1972,"Magnitogorsk, Russia",Aeroflot,Fire caused by spontaneous ignition of passenger baggage.,Cargo Hold / Cabin / Cockpit Fires
+32,07/11/1973,"Paris, Orly, France",Varig,A fire started in the aft right toilet either from an electrical short or discarded cigarette.,Cargo Hold / Cabin / Cockpit Fires
+33,11/03/1973,"Boston, Massachusetts",Pan American,Smoke in the cockpit and uncontrollable fire caused by spillage of nitric acid on sawdust packing in the cargo hold.,Cargo Hold / Cabin / Cockpit Fires
+34,11/26/1979,"Ta'if, Jeddah, Saudi Arabia",Pakistan Inter. AL,A fire may have been started by a passenger possibly from a leaking kerosene stove.,Cargo Hold / Cabin / Cockpit Fires
+35,08/19/1980,"Riyadh, Saudi Arabia",Saudi Arabian AL,A fire broke out in the aft cargo compartment.,Cargo Hold / Cabin / Cockpit Fires
+36,09/15/1980,"Medina, Saudi Arabia",Royal Saudi Air Force,In-flight fire.,Cargo Hold / Cabin / Cockpit Fires
+37,12/24/1982,"Guangzhou, China",CAAC,A passenger's cigarette caused a fire in the cabin which led to an oxygen tank exploding.,Cargo Hold / Cabin / Cockpit Fires
+38,02/13/1983,"Fayetteville, North Carolina",U.S. Air Force,Fire caused by an overheated APU.,Cargo Hold / Cabin / Cockpit Fires
+39,06/02/1983,"Covington, Kentucky",Air Canada,"An in-flight fire in the rear lavatory, of unknown origin.",Cargo Hold / Cabin / Cockpit Fires
+40,12/31/1985,"De Kalb, Texas",Private,Fire started in a defective cabin heater.,Cargo Hold / Cabin / Cockpit Fires
+41,07/02/1986,"Syktyvar, Russia",Aeroflot,An in-flight fire was caused by baggage that ignited in the rear cargo hold.,Cargo Hold / Cabin / Cockpit Fires
+42,05/09/1987,"Warsaw, Poland",LOT,A fire in the cargo hold was not detected because of damage to the fire warning system.,Cargo Hold / Cabin / Cockpit Fires
+43,11/28/1987,"Mauritius, Indian Ocean",South African Airways,A fire originated in a front pallet on the right side in the upper deck cargo hold.,Cargo Hold / Cabin / Cockpit Fires
+44,04/12/1988,United Airways,"Hennenman, South Africa",A leak at the right booster pump was the source of the fire.,Cargo Hold / Cabin / Cockpit Fires
+45,01/13/1990,"Pervouralsk, Russia",Aeroflot,A fire broke out in the rear cargo hold. Electrical short.,Cargo Hold / Cabin / Cockpit Fires
+46,07/11/1991,"Jeddah, Saudi Arabia",Nigeria Airways,Fire in the wheel well due to under inflated tires.,Cargo Hold / Cabin / Cockpit Fires
+47,07/12/1995,"Gumey, Papua New Guinea",Milne Bay Air,Fire broke out in the cargo hold in a passenger's luggage.,Cargo Hold / Cabin / Cockpit Fires
+48,05/11/1996,"Everglades, Florida",ValuJjet,An in-flight fire caused by activation of oxygen generators in the forward cargo hold.,Cargo Hold / Cabin / Cockpit Fires
+49,04/15/1997,"Gyandzha, Azerbaijan",Azerbaijan Airlines,A stray bullet from training soldiers struck an oxygen canister of the landing plane.,Cargo Hold / Cabin / Cockpit Fires
+50,06/06/1997,"Irumu, Congo",Bazair,Fire in the cabin.,Cargo Hold / Cabin / Cockpit Fires
+51,09/02/1998,"Peggy's Cove, Nova Scotia",Swissair,A fire in the entertainment system wiring started in a hidden area above the cockpit ceiling when arcing ignited the cover material made of thermal insulation blankets.,Cargo Hold / Cabin / Cockpit Fires
+52,08/21/1999,"Hualian, Taiwan",Uni Air,Accidental ignition of gasoline stored in 2 bleach bottles in the overhead.,Cargo Hold / Cabin / Cockpit Fires
+53,07/25/2000,"Gonesse, France",Air France,Concorde caught fire after foreign object ruptured the fuel tank.,Cargo Hold / Cabin / Cockpit Fires
+54,01/21/2001,"Ciudad Bolivar, Venezuela",Rutaca Airlines,Caught fire after takeoff.,Cargo Hold / Cabin / Cockpit Fires
+55,03/03/2001,Thai Airways,"Bangkok, Thailand",Center fuel tank explosion and fire while on the ground.,Cargo Hold / Cabin / Cockpit Fires
+56,12/01/2001,"Novaya Inya , Russia",Russian military,Fire on board at FL290.,Cargo Hold / Cabin / Cockpit Fires
+57,05/26/2006,"Chelyabinsk, Russia",Moskovia Airlines,Fire on board.,Cargo Hold / Cabin / Cockpit Fires
+58,08/22/2006,"Donetsk, Ukraine",Pulkovo Airlines,Fire reported on board.,Cargo Hold / Cabin / Cockpit Fires
+59,08/03/2008,Vancouver Island,Pacific Coastal Airlines,Electrical fire ignited spilt fuel.,Cargo Hold / Cabin / Cockpit Fires
+60,08/06/2009,"Nganga Lingolo, Congo",Aero Fret Business,Fire in the rear of the plane.,Cargo Hold / Cabin / Cockpit Fires
+61,04/21/2010,"Pampanga, Philippines",Interisland Airlines,Electrical fire.,Cargo Hold / Cabin / Cockpit Fires
+62,09/03/2010,"Dubai, United Arab Emirates",United Parcel Service- UPS,Fire and smoke from the cargo area. Carrying lithium batteries.,Cargo Hold / Cabin / Cockpit Fires
+63,07/21/2011,"Off Jeju, South Korea",Asiana Airlines,Fire in the cargo hold.,Cargo Hold / Cabin / Cockpit Fires
+1,03/31/1931,"Bazaar, Kansas",Trans Cont. & West AW,"Aileron flutter, brought about by moisture leaking into the wing's interior, weakening the glue that bonded the wooden spars.",Design Flaws
+2,10/24/1947,"Bryce Canyon, Utah",United AL,Allowed vented fuel to be carried back into the cabin heater air intake causing a fire.,Design Flaws
+3,11/11/1947,"Gallup, New Mexico",American AL,Allowed vented fuel to be carried back into the cabin heater air intake causing a fire.,Design Flaws
+4,06/17/1948,"Mt. Carmel, Pennsylvania",United AL,Design flaw allowed carbon dioxide used to suppress a fire to leak into the cockpit and asphyxiate the crew.,Design Flaws
+5,08/29/1948,"Winona, Minnesota",Northwest Orient AL,Loss of the outer panel of the left wing which separated as a result of a fatigue crack which was induced by a faulty design of a wing flange.,Design Flaws
+6,01/10/1954,"Elba, Italy",British Overseas AW,Metal fatigue due to a design flaw.,Design Flaws
+7,04/08/1954,"Off Stromboli, Italy",Trans Canada AL,Metal fatigue due to a design flaw.,Design Flaws
+8,02/05/1955,"Calabar, Nigeria",West African AW,A design flaw in the wing led to fatigue cracks and wing failure.,Design Flaws
+9,09/29/1959,"Buffalo, Texas",Braniff AL,A design flaw caused an oscillation known as mode to transfer propeller wobble to the outboard nacelles and induce flutter in the wing which led to the separation of the wing.,Design Flaws
+10,03/17/1960,"Tell City, Indiana",Northwest Orient AL,A design flaw caused an oscillation known as mode to transfer propeller wobble to the outboard nacelles and induce flutter in the wing which led to the separation of the wing.,Design Flaws
+11,07/05/1970,"Toronto, Canada",Air Canada,Faulty design by allowing the spoiler handle to perform two different unrelated tasks.,Design Flaws
+12,03/03/1974,"Ermenonville, France",Turkish AL,A defect in the latching mechanism on the cargo door.,Design Flaws
+13,07/06/1982,"Moscow, Russia",Aeroflot,Failure of the aircraft's power plant fire warning system due to design deficiencies which resulted in false fire indications in both engines.,Design Flaws
+14,02/24/1989,United Air Lines,"Honolulu, Hawaii",Poorly designed latching mechanism of cargo door.,Design Flaws
+15,04/06/1993,Over the Pacific Ocean,China Eastern AL,Inadequate design of flap/slat actuation handle that allowed it to be inadvertently dislodged from the UP/RET position causing extension of the leading edge slats.,Design Flaws
+16,03/03/1991,"Colorado Springs, Colorado",United AL,Uncommanded deflection of the rudder caused by the jamming of the main rudder PUC servo valve. Design flaw.,Design Flaws
+17,04/06/1993,"Shemya, Alaska",China Eastern Airlines,"Inadequate design of the flap/slat actuation handle that allowed the handle to be easily and inadvertently dislodged from the UP/RET position,",Design Flaws
+18,09/08/1994,"Aliquippa, Pennsylvania",USair,Uncommanded deflection of the rudder caused by the jamming of the main rudder PUC servo valve. Design flaw.,Design Flaws
+19,10/31/1994,"Roselawn, Indiana",American Eagle,The design of the rubber de-icing boot was insufficient to deal with icing on the wings.,Design Flaws
+20,12/05/1997,"Irkutsk, Russia",Russian Air Force,Design flaw which led to uncoordinated operation of the high-pressure compressors.,Design Flaws
+21,10/29/2018,Off Jakarta Indonesia,Lion Air,Software design flaw. Boeing 737 Max8,Design Flaws
+22,08/10/2019,"Bishoftu, Ethiopia",Etiopian Airlines,Software design flaw. Boeing 737 Max8,Design Flaws
+1,05/18/1935,Knowles Flying Service,"Flint, Michigan",Negligence on the pilot for not replenishing his fuel supply before it got dangerously low.,Fuel Starvation
+2,12/31/1935,Imperial Airways,"Alexandria, Egypt",Ran out of fuel.,Fuel Starvation
+3,07/02/1937,"Lae, New Guinea",Purdue Res. Found.,The aircraft had to be flown higher than expected due to storms which used extra fuel.,Fuel Starvation
+4,11/29/1938,"Off Point Reyes, Calif.",United Air Lines,Ran out of fuel forcing a ditching at sea.,Fuel Starvation
+5,02/09/1943,"Gander, Newfoundland",British Overseas AW,Ran out of fuel.,Fuel Starvation
+6,12/28/1946,"Michigan City, Michigan",American AL,Ran out of fuel for unknown reasons.,Fuel Starvation
+7,01/05/1947,"Carmel, New Jersey",Nationwide Air Trans.,Near fuel exhaustion forced the crew to carry out an emergency landing.,Fuel Starvation
+8,01/11/1947,"Lympne, England",BOAC,Ran out of fuel because of poor weather conditions encountered throughout the flight.,Fuel Starvation
+9,01/07/1948,"Savannah, Georgia",Coastal Air Lines,The fuel valves were positioned so that both engines were supplied from only one tank.,Fuel Starvation
+10,01/30/1948,Near Bermuda,British So. Am. AW,Ran into strong head winds in the Atlantic and ran out of fuel.,Fuel Starvation
+11,08/15/1949,"Lurga Point, Ireland",Transocean Air Lines,Ran out of fuel and ditched in the Atlantic.,Fuel Starvation
+12,07/28/1950,"Porte Alegre, Brazil",Penair do Brasil,Ran out of fuel while in a holding pattern.,Fuel Starvation
+13,04/30/1952,"Delhi, India","Deccan, AW",Fuel starvation after the plane banked to make a turn and the tank was almost empty.,Fuel Starvation
+14,05/26/1952,"Atar, Mauritania",British Overseas AW,Became lost in the desert and ran out of fuel.,Fuel Starvation
+15,06/19/1954,"Folkestone, England",Swissair,Ditched into the Atlantic Ocean after running out of fuel.,Fuel Starvation
+16,12/22/1954,"Pittsburgh, Pennsylvania",Johnson Flying Service,Ditched into the Monongahela River after running out of fuel.,Fuel Starvation
+17,05/02/1970,"St. Croix, Virgin Islands",Antillian AL,Ran out of fuel and ditched into the Mediterranean Sea.,Fuel Starvation
+18,12/05/1970,"Delhi, India",Jamair,The No. 2 engine failed on takeoff due to fuel starvation.,Fuel Starvation
+19,02/01/1972,"Tegal, Indonesia",Penas,Due to a compass error the aircraft became lost and crashed due to fuel starvation.,Fuel Starvation
+20,07/24/1973,"Honolulu, HI",Air Hawaii,Fuel starvation. Rear auxiliary tanks not serviced.,Fuel Starvation
+21,08/11/1974,"Ouagadougou, Upper Volta",Air Mali,After being diverted and a navigation error the crew circled the wrong city.,Fuel Starvation
+22,10/20/1977,"Gillsburg, Mississippi",L & J Company,A malfunction in the No.2 engine caused a higher than normal fuel consumption.,Fuel Starvation
+23,12/02/1977,"Al Bayda, Lebanon",Balkan Bulgarian AL,"Because of fog, the crew could not find the alternate airport and ran out of fuel.",Fuel Starvation
+24,12/28/1978,"Portland, Oregon",United AL,Ran out of fuel while the crew was distracted with a landing gear problem.,Fuel Starvation
+25,09/04/1982,"Rio Branco, Brazil",Cia Bras. de Tratores,Ran out of fuel on the third approach in poor weather.,Fuel Starvation
+26,07/23/1983,"Gimli, Manitoba, Canada",Air Canada,Accidentally used pounds/liter for the specific gravity factor instead of kilograms/liter.,Fuel Starvation
+27,09/03/1989,"Sao Jose do Xingu, Brazil",Varig,The crew flew in the wrong direction for two hours then ran out of fuel.,Fuel Starvation
+28,01/25/1990,"Cove Neck, New York",Avianca,Put in series of holding patterns because of heavy traffic and ran out of fuel.,Fuel Starvation
+29,09/11/1990,"Off Newfoundland, Canada",Faucett,Ran out of fuel and crashed into the Atlantic Ocean.,Fuel Starvation
+30,06/26/1991,"Sokotu, Nigeria",Okada Air,"After circling for an hour, unable to locate the air field, the plane ran out of fuel.",Fuel Starvation
+31,11/15/1993,"Kerman, Iran",Magistralnye Avialinii,Ran out of fuel while in a holding pattern.,Fuel Starvation
+32,09/18/1994,"Tamanrasset, Algeria",Oriental AL,After circling for1 1/2 hours and aborting four landing attempts the plane ran out of fuel.,Fuel Starvation
+33,09/26/1994,"Vanavera, Russia",Cheremshanka AL,"After three landing attempts, the crew diverted to their alternate but ran out of fuel.",Fuel Starvation
+34,09/11/1995,"Jalalabad, Afghanistan",Ariana Afghan AL,Ran out of fuel.,Fuel Starvation
+35,10/31/1995,"Piedras Negras, Mexico",TACSA,Ran out of fuel trying to land in fog.,Fuel Starvation
+36,04/05/1996,"Petropavlovsk, Russia",Krasnoyarskie AV,Crashed into a mountain after running out of fuel.,Fuel Starvation
+37,01/13/1998,"Tor Kach, Pakistan",Ariana Afghan AL,Crashed into a mountain after being diverted to their alternate due to bad weather.,Fuel Starvation
+38,03/24/2000,"Kadirana, Sri Lanka",OMSK,"After 2 messages they were low on fuel, the plane crashed while attempting to land.",Fuel Starvation
+39,08/12/2001,"Lajes, Terceira, Azores",Air Transat,Improperly installed part caused a fuel leak and the plane to run out of fuel.,Fuel Starvation
+40,06/11/2002,"Winnipeg, Manitoba",Keystone Air Services,Ran out of fuel.,Fuel Starvation
+41,11/11/2002,"Manila, Philippines",Laoag Int. Airlines,Failure of the pilot and co-pilot to check the fuel valves.,Fuel Starvation
+42,08/13/2004,"Cincinnati, Ohio",Air Tacoma,Flightcrew's failure to monitor the fuel gauges and to recognize a fuel imbalance.,Fuel Starvation
+43,08/06/2005,"Off Palermo, Italy",Tuninter,The maintenance crew incorrectly installed a fuel gauge for a ATR-42 on the ATR-72.,Fuel Starvation
+44,11/28/2016,"La Union, Columbia",LAMIA Bolivia16,Took off without enough fuel.,Fuel Starvation
+1,09/03/1929,"Mt. Taylor, New Mexico",Trans Con. Air Transport,Struck by lightning during a thunderstorm.,Lightning
+2,07/28/1937,"Hal, Belgium",KLM Royal Dutch Airlines,Crashed into a potato field after possibly being struck by lightning.,Lightning
+3,07/22/1938,"Stulpica, Romania",LOT,Struck by lightning.,Lightning
+4,08/31/1940,"Lovettsville, Virginia",Penn Central AL,Disabled pilots by a severe lightning discharge in vicinity of plane.,Lightning
+5,09/27/1946,"Rio Doce, Brazil",Panair do Brasil,Crashed into a mountainside after being possibly struck by lightning.,Lightning
+6,05/13/1949,"Novosibirsk, Russia",Aeroflot,Crashed after penetrating a thunderstorm and lightning hit the cockpit.,Lightning
+7,01/17/1951,"Civitavecchia, Italy",Alitalia,Lightning ignited mixture of air and fuel fumes in the fuel tank.,Lightning
+8,09/07/1951,"Kazakh, Russia",Aeroflot,The aircraft crashed shortly after being struck by lightning.,Lightning
+9,06/26/1959,"Varese, Italy",Trans World AL,Ignition of gasoline vapors emanating from the fuel tank vent pipes by static discharge.,Lightning
+10,07/19/1961,"Azul, Brazil",Aerolineas Argentinas,Stuck by lightning and extreme turbulence.,Lightning
+11,12/19/1962,"Warsaw, Poland",LOT,Stalled after being struck by lightning.,Lightning
+12,08/12/1963,"Lyon, France",Air Inter,Possibility of a flash of lightning dazzling the crew and causing temporary blindness.,Lightning
+13,12/08/1963,"Elkton, Maryland",Pan American AW,Lightning induced ignition of fuel tank vapors.,Lightning
+14,04/18/1967,"Zarand, Iran",Iranian Air Force,Crashed after being struck by lightning.,Lightning
+15,12/24/1971,"Puerto Inca, Peru",Lineas Aereas Nac.,Lightning caused a fire which led to the separation of the right wing.,Lightning
+16,05/09/1976,"Madrid, Spain",Iran Air Force,Lightning caused an explosion in the No. 1 fuel tank which caused the left wing to fail.,Lightning
+17,09/05/1980,"Montelimar, France",Kuwait Air Force,Struck by lightning.,Lightning
+18,02/08/1988,"Mulheim, Germany",NFD,Struck by lightning and suffered a complete electrical failure.,Lightning
+19,08/09/1995,"San Vincente, El Salvador",Aviateca,Possible damage to the aircraft's DME due to lightning.,Lightning
+20,06/22/2000,"Shitai, China",Wuhan AL,Struck by lightning causing the plane to explode and crash.,Lightning
+21,10/10/2001,"Off Valencia, Spain",Flightline,Electrical power was lost following a lightning strike.,Lightning
+22,12/27/2002,"Anjouan, Comoros Islands",Ocean Airlines,Struck by lightning causing loss of artificial horizons and gyro compasses.,Lightning
+1,10/25/1948,"Georgian SSR, USSR",Aerflot,Crew drank alcohol before the flight.,Pilot Incapacitation
+2,10/06/1955,"Centennial, Wyoming",United AL,Incapacitation of crew by carbon monoxide emanating from a faulty cabin heater.,Pilot Incapacitation
+3,10/30/1959,"Waynesborough, Virginia",Piedmont AL,Mental breakdown of captain during flight.,Pilot Incapacitation
+4,01/03/1961,"Koivulahti, Finland",Finnair,Both pilots tested positive for alcohol.,Pilot Incapacitation
+5,12/14/1962,"Burbank, California",Flying Tiger Line,Incapacitation of the captain with a heart attack at a critical point in the approach.,Pilot Incapacitation
+6,04/22/1966,"Ardmore, Oklahoma",American Flyers AL,Incapacitation of the captain with a heart attack during final stages of approach.,Pilot Incapacitation
+7,12/24/1966,"Cascubel River, Colombia",AVIANCA,Consuming alcohol shortly before the flight.,Pilot Incapacitation
+8,03/13/1967,"East London, South Africa",South African AW,The captain suffered a heart attack and first officer could not regain control of aircraft.,Pilot Incapacitation
+9,01/14/1970,"Mt. Pumacona, Peru",Faucett,The mental state of the pilot adversely affected his judgment and efficiency.,Pilot Incapacitation
+10,06/18/1972,"Staines, Surrey, England",British European AW,Incapacitation of the captain due to a possible arterial hemorrhage.,Pilot Incapacitation
+11,10/13/1972,"Krasnaya, Polyana, USSR",Aeroflot,Sudden incapacitation of the crew for reasons unknown.,Pilot Incapacitation
+12,02/09/1982,"Tokyo, Japan",Japan AL,"The captain, known to have mental problems, put the inboard engines into reverse.",Pilot Incapacitation
+13,08/28/1986,"Texarkana, Arkansas",Southwest Airlift,Alcohol impairment of the pilot and co-pilot.,Pilot Incapacitation
+14,04/19/1991,"Nuka Hiva, French Polynesia",Air Tahiti,The crew's performance may have been impacted by alcohol consumption.,Pilot Incapacitation
+15,03/31/1995,"Balotesti, Romania",Trans. Aeriene Rom.,The captain was incapacitated shortly after taking off.,Pilot Incapacitation
+16,09/04/2000,"Near Burketown, Australia",Central Air,Incapacitation of the captain due to depressurized cabin and lack of oxygen.,Pilot Incapacitation
+17,08/14/2005,"Grammatikos, Greece",Helios Airways,Pressurization failure incapacitated the entire crew.,Pilot Incapacitation
+1,03/28/1933,"Dixmude, Belgium",Imperial AW,Fire started by a passenger in an attempt to commit suicide.,Sabotage / Hijacking
+2,1939 - 1945,-,-,Numerous passenger planes shot down during WWII.,Sabotage / Hijacking
+3,07/16/1948,Pacific Ocean,Cathay Pacific AW,Crashed after being hijacked and losing control during a struggle in the cockpit.,Sabotage / Hijacking
+5,05/07/1949,"Sibuyan Sea, Philippines",Philippine AL,Bomb placed aboard to kill the husband of a woman involved with another man.,Sabotage / Hijacking
+6,09/09/1949,"Sault-aux-Cochons, Canada",Canadian Pacific AL,Dynamite bomb placed aboard by husband to collect insurance on wife.,Sabotage / Hijacking
+7,04/13/1950,British European Airways,British European Airways,A bomb blew a 8 ft. by 4 ft. hole in the fuselage seriously injuring a stewardess. A French passenger tried to commit suicide.,Sabotage / Hijacking
+8,08/12/1952,"Palmeria de Goias, Brazil",Trans Aero Nac.,A bomb exploded aboard killing everyone aboard.,Sabotage / Hijacking
+9,1952 - 1954,-,-,Numerous passenger planes shot down during the Korean War.,Sabotage / Hijacking
+10,04/11/1955,"Great Natuna Island, Sarawak",Air India,An aircraft worker placed an incendiary device in the starboard wheel well.,Sabotage / Hijacking
+11,07/27/1955,"Near Petrich, Bulgaria",El Al,Shot down by a Bulgarian fighter jet.,Sabotage / Hijacking
+12,11/01/1955,"Longmont, Colorado",United AL,Jack Graham placed a bomb aboard to collect insurance on the death of his mother.,Sabotage / Hijacking
+13,07/25/1957,"Daggett, California",Western AL,Jeweler Saul Binstock detonated a bomb in lavatory in suicide for insurance plot.,Sabotage / Hijacking
+14,11/01/1958,"Nipe Bay, Cuba",Cubana,Crashed after being hijacked and running out of fuel.,Sabotage / Hijacking
+15,04/17/1959,"Puerto Kino,Mexico",Tigres Voladores,A bomb is believed to have exploded onboard.,Sabotage / Hijacking
+16,06/01/1959,Aerolineas Nacionales,Nicaragua,Shot down by a Nicaraguan Air Force fighter.,Sabotage / Hijacking
+17,09/08/1959,"Poza Rica, Mexico",Mexicana,"A passenger, who was believed to have been carrying a bomb, fell from the airplane.",Sabotage / Hijacking
+18,11/16/1959,Gulf of Mexico,National AL,Explosion of a bomb aboard was strongly suspected.,Sabotage / Hijacking
+19,01/06/1960,"Bolivia, North Carolina",National AL,A passenger detonated a dynamite bomb under his seat in suicide for insurance plot.,Sabotage / Hijacking
+20,04/28/1960,"Calabozo, Venezuela",Linea Aeropostal Venezolana,Detonation of a hand-grenade brought aboard by a Russian immigrant.,Sabotage / Hijacking
+21,05/10/1961,"In Amenas, Libya",Air France,Detonation of a nitrocellulose bomb.,Sabotage / Hijacking
+22,05/22/1962,"Unionville, Missouri",Continental AL,Detonation of a dynamite bomb in the right rear lavatory in a towel bin.,Sabotage / Hijacking
+23,05/07/1964,"San Ramon, California",Pacific AL,"Francisco Gonzales, a passenger, shot both the pilot and first officer.",Sabotage / Hijacking
+24,12/08/1964,"Tripuani, Bolivia",Aerolineas Abaroa,Detonation of a bomb in the tail section. A suicide for insurance plot was suspected.,Sabotage / Hijacking
+25,07/08/1965,"Dog Creek, British Columbia",Canadian Pacific AL,A bomb exploded in the cabin. Acid and gunpowder may have been poured in toilet.,Sabotage / Hijacking
+26,1965 - 1970,-,-,Numerous passenger planes shot down during the Vietnam war.,Sabotage / Hijacking
+27,11/22/1966,"Aden, Yemen",Aden AW,Detonation of an explosive device placed in hand luggage in the cabin.,Sabotage / Hijacking
+28,02/09/1967,"Mexico City, Mexico",Cubana,Crashed due to bomb explosion.,Sabotage / Hijacking
+29,10/12/1967,"Rhodes, Greece",British European AW,Destroyed by a detonation of a bomb within the cabin.,Sabotage / Hijacking
+30,12/22/1969,"Nha Trang, Vietnam",Air Vietnam,An explosive device was detonated in the cabin just as the aircraft was about to land.,Sabotage / Hijacking
+31,02/21/1970,"Zurich, Switzerland",Swissair,A bomb with an altimeter trigger was believed to have been placed in a mail package.,Sabotage / Hijacking
+32,04/21/1970,"Manila, Philippines",Philippine AL,Crashed into mountainous terrain after an explosion in the rear lavatory.,Sabotage / Hijacking
+33,06/02/1970,"Roxas, Philippines",Philippine AL,A hand grenade exploded inside the passenger cabin at FL130. The plane landed safely.,Sabotage / Hijacking
+34,01/23/1971,Korean Air Lines,"Sokcho, South Korea",A hijacker detonated grenades he was carrying.,Sabotage / Hijacking
+35,10/10/1971,"Moscow, Russia",Aeroflot,A TNT explosive device had been placed between the cabin wall and a passenger seat in the rear of the cabin.,Sabotage / Hijacking
+36,11/21/1971,"Penhu Island, Taiwan",China AL,Detonation of an explosive device.,Sabotage / Hijacking
+37,12/06/1971,"Tikaka, Sudan",Sudan AW,Hijacked and ran out of fuel.,Sabotage / Hijacking
+38,01/26/1972,"Hermsdorf, Czechoslovakia",JAT,Detonation of a bomb in the forward cargo hold.,Sabotage / Hijacking
+39,06/15/1972,"Pleiku, Vietnam",Cathay Pacific AW,Detonation of an explosive device in the passenger cabin in a suitcase under a seat.,Sabotage / Hijacking
+40,10/02/1972,"Kampot, Cambodia",Cambodia Air,Shot down by a mortar shell while approaching to land at Kampot.,Sabotage / Hijacking
+41,02/21/1973,"Near Isma'iliya, Egypt",Libya Arab Airlines,Shot down by Israeli Phantom fighters.,Sabotage / Hijacking
+42,03/19/1973,"Ben Me Thout, South Vietnam",Air Vietnam,Crashed after an explosion in the cargo hold.,Sabotage / Hijacking
+43,05/18/1973,"Chita, Siberia, USSR",Aeroflot,Detonation of a bomb in the cabin being carried by a hijacker.,Sabotage / Hijacking
+44,12/17/1973,"Rome, Italy",Pan American AW,Two phosphorus bombs were thrown into the aircraft prior to its departure.,Sabotage / Hijacking
+45,09/15/1974,"Phan Rang, Vietnam",Air Vietnam,Detonation of two hand grenades in the passenger compartment by a hijacker.,Sabotage / Hijacking
+46,06/03/1975,"Manila, Philippines",Philippine Air Lines,A bomb exploded in the right rear lavatory causing a hole in the fuselage. The plane landed safely.,Sabotage / Hijacking
+47,01/01/1976,"Al Qaysumah, Saudi Arabia",Middle East AL,Detonation of an explosive device in the forward cargo compartment.,Sabotage / Hijacking
+48,05/23/1976,"Zamboanga, Philipines",Philippine Air Lines,A hijacker set off grenades in the cabin.,Sabotage / Hijacking
+49,06/27/1976,"Entebbe, Uganda",Air France,Seven passengers were killed during a commando raid by Israeli forces.,Sabotage / Hijacking
+50,08/28/1976,"Ho Chi Minh City, Vietnam",Air France,A hijacker set off two grenades in the cabin and was killed,Sabotage / Hijacking
+51,10/06/1976,"Bridgetown, Barbados",Cubana,Detonation of an explosive device in the aft of the cabin.,Sabotage / Hijacking
+52,12/04/1977,"Kampung Ladang, Malaysia",Malaysia AL,Hijacked with both pilots shot.,Sabotage / Hijacking
+53,09/03/1978,"Kariba, Rhodesia",Air Rhodesia,Shot down with surface-to-air missile.,Sabotage / Hijacking
+54,02/12/1979,"Kariba, Rhodesia",Air Rhodesia,Shot down with surface-to-air missle,Sabotage / Hijacking
+55,02/19/1979,"Barentu, Ethiopia",Ethiopian Airlines,Crashed after a bomb exploded aboard.,Sabotage / Hijacking
+56,11/15/1979,"Chicago, Illinois",American Airlines,An explosive device detonated in the baggage compartment.,Sabotage / Hijacking
+57,06/27/1980,"Tyrrhenian Sea, Italy",Itavia,An explosive device aboard the aircraft causing the plane crash.,Sabotage / Hijacking
+58,12/21/1980,"Rio Hacha, Colombia",Trans. Aereos del Caribe,Explosion possibly caused by a bomb placed in the rear section of the aircraft.,Sabotage / Hijacking
+59,05/16/1981,"Menongue, Angola",TAAG Angola Airlines,Shot down by a surface-to-air missile.,Sabotage / Hijacking
+60,08/11/1982,Pacific Ocean,Pan American,A sixteen-year-old boy was killed when a bomb detonated under a seat cushion.,Sabotage / Hijacking
+61,11/08/1983,"Lubango, Huila, Angola",TAAG Angola Airlines,Shot down by rebels with a surface to air missile.,Sabotage / Hijacking
+62,09/23/1983,"Mina Jebel Ali, UAE",Gulf Air,Detonation of an explosive device in the baggage compartment.,Sabotage / Hijacking
+63,1985 - 1987,-,-,Numerous passenger planes shot down during the Afghanistan war.,Sabotage / Hijacking
+65,06/14/1985,"Athens, Greece",Trans World AL,U.S. Navy diver Robert Stethem was murdered aboard by hijackers.,Sabotage / Hijacking
+66,06/23/1985,"Atlantic Ocean, Ireland",Air India,Detonation of an explosive device in the forward cargo hold.,Sabotage / Hijacking
+67,11/24/1985,"Luqa, Malta",Egyptair,Several hand grenades were thrown into the cabin causing a fire.,Sabotage / Hijacking
+68,04/02/1986,"Athens, Greece",Trans World AL,Detonation of a explosive device in the cabin causing 4 passengers to be sucked out.,Sabotage / Hijacking
+69,05/03/1986,"Colombo, Sri Lanka",Air Lanka,Detonation of an explosive device in the rear section of the cabin while on the ground.,Sabotage / Hijacking
+70,08/16/1986,"Malakal, Sudan",Sudan Airways,Shot down by SPLA rebels with surface-to-air missiles,Sabotage / Hijacking
+71,09/05/1986,"Karachi, Pakistan",Pan American AW,Hijackers opened fire on the passengers and crew and threw grenades among them.,Sabotage / Hijacking
+72,12/25/1986,"Ay, Saudi Arabia",Iraqi AW,Two hand grenades exploded in the cockpit causing the plane to lose control & crash.,Sabotage / Hijacking
+73,05/05/1987,"Malakal, Sudan",Sasco Air Lines,Shot down by rebels shortly after taking off.,Sabotage / Hijacking
+74,07/24/1987,"Geneva, Switzerland",Air Afrique,A hijacker killed one passenger before the plane was stormed by troops.,Sabotage / Hijacking
+75,11/29/1987,Andaman Sea,Korean AL,Detonation of an explosive device in the passenger cabin.,Sabotage / Hijacking
+76,12/07/1987,"San Luis Obispo, California",Pacific Southwest AL,"David Burk, a fired employee, shot the pilot and first officer.",Sabotage / Hijacking
+77,03/01/1988,"Johannesberg, South Africa",Comair,Detonation of a nitro-glycerine bomb in the cabin. Suicide for insurance.,Sabotage / Hijacking
+78,07/03/1988,Persian Gulf,Iran Air,Shot down by the U.S. Navy vessel U.S.S. Vincennes with surface-to-air missiles.,Sabotage / Hijacking
+79,08/17/1988,"Bahawalpur, Pakistan",Pakistan Air Force,Detonation of a low level explosive device or incapacitating gas.,Sabotage / Hijacking
+80,12/21/1988,"Lockerbie, Scotland",Pan American AW,Detonation of an explosive device in the forward cargo area planted by terrorists.,Sabotage / Hijacking
+81,06/28/1989,"Borana, Somalia",Somali Airlines,Shot down by a surface-to-air missile.,Sabotage / Hijacking
+82,09/19/1989,"Bilma, Niger",Union des Trans. Aer.,Detonation of a bomb in a container location 13-R in the forward cargo hold.,Sabotage / Hijacking
+83,11/27/1989,"Bogota, Colombia",Avianca,Detonation of a bomb at seat 15F causing ignition of fuel vapors in an empty fuel tank.,Sabotage / Hijacking
+84,10/02/1990,"Guangzhou, China",Xiamen/China SW AL,After a struggle in the cockpit with a hijacker the pilot hit three parked planes.,Sabotage / Hijacking
+85,08/28/1993,"Khorag, Tajikistan",Tadzhikistan Nat. AL,The crew was coerced into taking off with an overloaded plane by armed hijackers.,Sabotage / Hijacking
+86,09/21/1993,"Sukhumi, Georgia",Transair Georgia Airlines,Shot down with a missile by Abkhazi separatist rebels.,Sabotage / Hijacking
+87,04/06/1994,"Kigali, Rwanda",Rwanda Government,Shot down by missile.,Sabotage / Hijacking
+88,07/09/1994,"Colon, Panama",Alas Chiricanas,A bomb exploded aboard.,Sabotage / Hijacking
+89,07/19/1994,"Colon, Panama",Alas Chiricanas,Crashed after a bomb exploded aboard.,Sabotage / Hijacking
+90,12/10/1994,Pacific Ocean,Philippine Air Lines,An explosive device detonated at FL 300 under a seat in the passenger cabin blowing a two square foot hole in the cabin floor.,Sabotage / Hijacking
+91,12/26/1994,"Algiers, Algeria",Air France,Three passengers and four hijackers were killed when the plane was stormed.,Sabotage / Hijacking
+92,11/23/1996,"Moroni, Comoros Islands",Ethiopian AL,The plane was hijacked and ran out of fuel crashing in the ocean.,Sabotage / Hijacking
+93,07/09/1997,"Suzano, Brazil",TAM,A small bomb containing only 7 oz. of explosives was placed under a passenger seat.,Sabotage / Hijacking
+94,04/05/1988,"Combi, Cyprus",Kuwait AW,Two hostages killed on the ground by hijackers.,Sabotage / Hijacking
+95,09/02/1998,Angola,Permaviatrans,Shot down by UNITA rebels.,Sabotage / Hijacking
+96,09/29/1998,"Mannar, Sri Lanka",Lionair,Shot down by LTTE (Liberation Tigers of Tamil Eelam) rebels.,Sabotage / Hijacking
+97,12/14/1998,"Cuito, Angola",Khors Aircompany,Shot down by UNITA rebels.,Sabotage / Hijacking
+98,07/23/1999,"Tokyo, Japan",All Nippon AW,The pilot was stabbed and killed by a mentally ill passenger but the copilot landed the plane safely.,Sabotage / Hijacking
+99,07/01/1999,"Luzamba, Angola",Savanair,The cargo plane was shot down by UNITA rebels.,Sabotage / Hijacking
+100,12/24/1999,"Amritsar, India",Indian Airlines,One crew member was killed after the plane was hijacked.,Sabotage / Hijacking
+101,05/25/2000,"Manila, Philippines",Philippine Air Lines,A hijacker was killed after jumping out of plane with a homemade parachute.,Sabotage / Hijacking
+102,03/15/2001,"Medina, Saudi Arabia",Vnukovo Airlines,Three people were killed after the hijacked plane was stormed.,Sabotage / Hijacking
+103,09/11/2001,"Shanksville, Pennsylvania",United AL,Hijacked and flown into the ground in Pennsylvania.,Sabotage / Hijacking
+104,09/11/2001,"New York, New York",American AL,Hijacked and flown into the twin towers in New York.,Sabotage / Hijacking
+105,09/11/2001,"New York, New York",United AL,Hijacked and flown into the twin towers in New York.,Sabotage / Hijacking
+106,09/11/2001,"Arlington, Virginia",American AL,Hijacked and flown into the Pentagon.,Sabotage / Hijacking
+107,10/04/2001,"Sochi, Russia",Sibir Airlines,Shot down accidentally by a Ukrainian surface-to-air missile.,Sabotage / Hijacking
+108,12/14/2001,"Geti, DRC",Eagle Air,Shot down by Allied Democratic Forces rebels.,Sabotage / Hijacking
+109,05/07/2002,"Off Dalian, China",China Northern Airlines,Out of control fire after a passenger deliberately started a fire with gasoline.,Sabotage / Hijacking
+110,08/24/2004,"Toula, Russia",Volga-Avia Express,Detonation of an explosive device aboard.,Sabotage / Hijacking
+111,08/24/2004,"Toula, Russia",Volga-Avia Express,Detonation of an explosive device aboard.,Sabotage / Hijacking
+112,08/24/2004,"Rostov-on-Don, Russia",Sibir Airlines,Detonation of an explosive device aboard.,Sabotage / Hijacking
+113,07/17/2014,"Hrabove, Ukraine",Malaysia Airlines,Shot down.,Sabotage / Hijacking
+114,03/24/2015,"Digne-Les-Bains, Fran",Germanwings,Pilot deliberately flew the plane into the ground.,Sabotage / Hijacking
+115,10/31/2015,"Hasna, Egypt",Metrojet,Brought down by a homemade explosive device in the left rear cargo hold.,Sabotage / Hijacking
+116,02/02/2016,"Mogadishu, Somalia",Daallo Airlines,Detonation of a bomb containing TNT. One sucked out of the plane.,Sabotage / Hijacking
+117,01/08/2020,Shahiiah. Ukraine,Ukrain Inter Airlines,Shot down by Iran's Revolutionary Guard.,Sabotage / Hijacking
