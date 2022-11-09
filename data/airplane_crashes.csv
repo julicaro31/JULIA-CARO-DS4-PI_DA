@@ -7,7 +7,7 @@ date,time,location,all_aboard,total_fatalities,cause
 10/17/1913,1030,Germany,28,28,Cargo Hold / Cabin / Cockpit Fires
 03/05/1915,100,Belgium,41,17,Shot Down
 09/03/1915,1520,Germany,19,19,Weather
-07/28/1916,-1,Bulgeria,20,20,Unknown
+07/28/1916,-1,Bulgaria,20,20,Unknown
 09/24/1916,100,UK,22,22,Cargo Hold / Cabin / Cockpit Fires
 10/01/1916,2345,UK,19,19,Cargo Hold / Cabin / Cockpit Fires
 11/21/1916,-1,Germany,28,27,Weather
@@ -530,7 +530,7 @@ date,time,location,all_aboard,total_fatalities,cause
 10/25/1938,1345,Australia,18,18,Weather
 11/02/1938,-1,UK,2,2,Sin Dato
 11/04/1938,1050,USA,14,14,Cargo Hold / Cabin / Cockpit Fires
-11/14/1938,1841,Amsterdam,19,6,Weather
+11/14/1938,1841,Netherlands,19,6,Weather
 11/18/1938,51,Canada,2,2,Sin Dato
 11/26/1938,1520,Gambia,15,12,Cargo Hold / Cabin / Cockpit Fires
 11/27/1938,-1,Iraq,6,4,Weather
@@ -554,7 +554,7 @@ date,time,location,all_aboard,total_fatalities,cause
 05/01/1939,-1,Mozambique,4,2,Sin Dato
 05/02/1939,1530,Morocco,9,9,Cargo Hold / Cabin / Cockpit Fires
 05/08/1939,1200,Ecuador,1,1,Sin Dato
-06/06/1939,925,Amsterdam,4,0,Engine Failures
+06/06/1939,925,Netherlands,4,0,Engine Failures
 06/10/1939,1620,Netherlands,3,3,Engine Failures
 06/20/1939,-1,Kingdom,3,3,Sin Dato
 07/20/1939,1850,Switzerland,6,6,Cargo Hold / Cabin / Cockpit Fires
@@ -1348,7 +1348,7 @@ date,time,location,all_aboard,total_fatalities,cause
 11/17/1952,-1,USA,16,9,Engine Failures
 11/22/1952,2015,USA,52,52,Sin Dato
 11/28/1952,50,USA,38,37,Weather
-12/06/1952,-1,Bugaria,18,18,Sin Dato
+12/06/1952,-1,Bulgaria,18,18,Sin Dato
 12/06/1952,440,Bermuda,41,37,Unknown
 12/20/1952,630,USA,115,87,Cargo Hold / Cabin / Cockpit Fires
 12/21/1952,-1,USA,3,3,Sin Dato
@@ -1692,7 +1692,7 @@ date,time,location,all_aboard,total_fatalities,cause
 06/16/1958,1745,Brazil,26,21,Sin Dato
 06/25/1958,1100,India,7,5,Fuel Starvation
 06/27/1958,30,USA,15,15,Fuel Starvation
-07/09/1958,1405,Baangladesh,3,3,Weather
+07/09/1958,1405,Bangladesh,3,3,Weather
 08/09/1958,114,Libya,54,36,Sin Dato
 08/11/1958,1900,Brazil,11,10,Unknown
 08/12/1958,-1,Japan,33,33,Engine Failures
@@ -1752,7 +1752,7 @@ date,time,location,all_aboard,total_fatalities,cause
 05/12/1959,1613,USA,31,31,Weather
 05/12/1959,1529,USA,44,2,Cargo Hold / Cabin / Cockpit Fires
 05/13/1959,-1,Peru,12,12,Sin Dato
-05/15/1959,2042,Aregntina,10,10,Sin Dato
+05/15/1959,2042,Argentina,10,10,Sin Dato
 05/21/1959,-1,Peru,8,8,Sin Dato
 06/01/1959,-1,Nicaragua,60,60,Shot Down
 06/05/1959,-1,USA,19,19,Sin Dato
@@ -2337,7 +2337,7 @@ date,time,location,all_aboard,total_fatalities,cause
 07/08/1968,-1,Arabia,11,11,Weather
 07/13/1968,-1,Nigeria,7,7,Sin Dato
 07/15/1968,-1,Brazil,3,3,Sin Dato
-07/18/1968,-1,Chili,5,5,Sin Dato
+07/18/1968,-1,Chile,5,5,Sin Dato
 08/02/1968,1406,Italy,95,13,Sin Dato
 08/04/1968,848,USA,15,3,Sin Dato
 08/09/1968,1305,Germany,48,48,Sin Dato
@@ -2474,7 +2474,7 @@ date,time,location,all_aboard,total_fatalities,cause
 06/01/1970,512,Libya,13,13,Weather
 06/02/1970,-1,Philippines,44,1,Sin Dato
 06/10/1970,-1,Peru,8,5,Sin Dato
-07/03/1970,1400,Alakska,27,5,Sin Dato
+07/03/1970,1400,USA,27,5,Sin Dato
 07/03/1970,1905,Spain,112,112,Sin Dato
 07/05/1970,809,Canada,109,109,Design Flaws
 07/18/1970,1720,Ocean,23,23,Sin Dato
@@ -2967,7 +2967,7 @@ date,time,location,all_aboard,total_fatalities,cause
 09/03/1978,1730,Zimbabwe,56,38,Cargo Hold / Cabin / Cockpit Fires
 09/09/1978,1447,USA,3,3,Sin Dato
 09/09/1978,-1,Mexico,21,18,Sin Dato
-09/13/1978,1130,Ak,6,6,Sin Dato
+09/13/1978,1130,USA,6,6,Sin Dato
 09/14/1978,1450,Philippines,28,21,Weather
 09/25/1978,902,USA,137,137,Sin Dato
 10/03/1978,-1,Finland,15,15,Engine Failures
@@ -4508,7 +4508,7 @@ date,time,location,all_aboard,total_fatalities,cause
 11/18/2004,1302,Venezuela,21,3,Cargo Hold / Cabin / Cockpit Fires
 11/21/2004,820,China,53,53,Sin Dato
 11/22/2004,615,USA,3,3,Weather
-11/27/2004,820,Afghanstan,6,6,Sin Dato
+11/27/2004,820,Afghanistan,6,6,Sin Dato
 11/28/2004,955,USA,6,3,Weather
 11/30/2004,1814,Indonesia,163,25,Sin Dato
 12/10/2004,-1,Venezuela,16,16,Sin Dato
@@ -4850,7 +4850,7 @@ date,time,location,all_aboard,total_fatalities,cause
 05/31/2013,1211,Ontario,4,4,Sin Dato
 06/25/2013,-1,India,20,20,Sin Dato
 07/06/2013,1138,USA,307,3,Cargo Hold / Cabin / Cockpit Fires
-07/07/2013,1120,Alaksa,10,10,Engine Failures
+07/07/2013,1120,USA,10,10,Engine Failures
 08/09/2013,800,Somalia,6,4,Cargo Hold / Cabin / Cockpit Fires
 08/14/2013,449,USA,2,2,Cargo Hold / Cabin / Cockpit Fires
 10/03/2013,932,Nigeria,20,16,Cargo Hold / Cabin / Cockpit Fires
@@ -4920,7 +4920,7 @@ date,time,location,all_aboard,total_fatalities,cause
 07/22/2016,-1,Ocean,29,29,Cargo Hold / Cabin / Cockpit Fires
 07/30/2016,742,USA,16,16,Sin Dato
 08/05/2016,1238,Emirates,300,0,Cargo Hold / Cabin / Cockpit Fires
-08/31/2016,1100,Alaksa,5,5,Sin Dato
+08/31/2016,1100,USA,5,5,Sin Dato
 10/24/2016,720,Airport,5,5,Sin Dato
 11/28/2016,2200,Colombia,77,71,Fuel Starvation
 12/03/2016,1122,Indonesia,13,13,Sin Dato
